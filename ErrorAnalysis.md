@@ -1,6 +1,3 @@
-# Title
-## Course - Section
-## Authors
 # Machine Learning Report: Error Analysis
 ## Introduction to Computer Programming in Engineering and Science 360-420-DW - 00003
 ## Jordana Marciano
